@@ -1,0 +1,10 @@
+/build/
+/bin/
+/obj/
+*.exe
+*.o
+*.obj
+*.depend
+*.layout
+*.user
+CMakeUserPresets.json
